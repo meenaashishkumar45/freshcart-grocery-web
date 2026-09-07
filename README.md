@@ -4,7 +4,7 @@ Hello! I am **Ashish Kumar Meena**, a 16-year-old independent web developer base
 
 ## 🌐 Project Live Demo
 You can view and test my fully live, interactive grocery application here:
-👉 **[https://lovable.app](https://lovable.app)**
+👉 https://local-grocery-app.lovable.app
 
 ## 🚀 About This App
 - Built a modern, clean web layout featuring a **Fresh greens & whites** color scheme.
